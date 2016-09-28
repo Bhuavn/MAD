@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JavaExamples</string>
+    <string name="age">Enter Age</string>
+    <string name="enter">IF</string>
+    <string name="enteredAge">Not yet Entered Age</string>
+    <string name="major">phone number is 8099392919 and bhuvan.allu@gmail.com </string>
+    <string name="minor">Minor</string>
+    <string name="Switch">Switch</string>
+    <string name="For">For</string>
+
+
+
+</resources>
