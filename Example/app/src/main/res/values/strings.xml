@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="text_value">Hello every one..!</string>
+    <string name="text_value2">This is about CSE</string>
+    <string name="description">This is CSE Logo</string>
+    <string name="result">0</string>
+
+
+</resources>

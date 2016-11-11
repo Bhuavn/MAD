@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">settings</string>
+    <string name="search">search</string>
+    <string name="tab1">Calls</string>
+    <string name="tab2">Chats</string>
+    <string name="tab3">Contacts</string>
+</resources>
