@@ -1,0 +1,26 @@
+Syllabus for EndSem:
+Chapter1: Prelimary considerations
+    Complete Chapter 1
+Chapter2: Diving into mobile: APP or Website?
+    Complete Chapter 2
+Chapter 3:
+    page no: 37 to 42
+Chapter 4:
+  page no: 89 to 109
+
+Complete Chapter 5:
+  page no: 117 to 123 and page no: 143 to 150
+  
+Chapter 6:
+  Complete Chapter 6(Note practices examples that has given in text book)
+ 
+Chapter 11: (this chapter will be added in ENDSEM)
+  page no: 309 to 320
+  
+ionicframework:
+  need to learn about cordova, ionicframework, components and html5 inputelements
+  ref: https://cordova.apache.org , http://ionicframework.com and  http://ionicframework.com/docs/
+  
+
+Syllabus for MT-3
+  chapter5,chapter6 and ionic framework
